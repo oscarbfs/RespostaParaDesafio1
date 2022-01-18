@@ -9,4 +9,4 @@ Clone o projeto. No terminal, vá para a pasta do projeto e rode "dart function.
 <br></br>
 <h2 align="center"> Como funciona </h2>
 Após executar o arvquivo, no terminal irá aparecer "Informe um numero inteiro positivo: " a seguir você terá que fonecer um número inteiro e positivo como dado de entrada, feito isso, logo em seguida o terminal retornará para você o somatorio de todos os numeros divisores de 3 e 5, que são menores que o número dado como entrada.
-<br></br>"# RespostaParaDesafio1" 
+<br></br>
